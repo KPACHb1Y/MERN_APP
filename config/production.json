@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "jwtSecret": "hammerfall",
+  "mongoUri": "mongodb+srv://hammerfall:12345Bujhm1991@cluster0.ngtdj.mongodb.net/<MERN_APP>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
